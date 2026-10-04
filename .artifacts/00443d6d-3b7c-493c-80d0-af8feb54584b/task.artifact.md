@@ -1,0 +1,5 @@
+- `[x]` Copy new favicon assets to `web/` root
+- `[x]` Update `site.webmanifest` with app metadata
+- `[x]` Update `index.html` with new favicon tags and meta data
+- `[x]` Delete old `manifest.json`
+- `[x]` Verify changes

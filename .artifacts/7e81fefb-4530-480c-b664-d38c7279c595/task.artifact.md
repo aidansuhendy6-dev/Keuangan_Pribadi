@@ -1,0 +1,8 @@
+- `[x]` Convert `DanaVsTagihanScreen` to `StatefulWidget`
+- `[x]` Implement month selection logic and state management
+- `[x]` Implement detailed breakdown calculation logic per month
+- `[x]` Update `DanaVsTagihanScreen` UI with two-column layout below chart
+- `[x]` Add interactive month selector in the detail card
+- `[x]` Verify breakdown numbers for current month (August)
+- `[x]` Verify breakdown numbers for future months
+- `[x]` Ensure auto-sliding logic in chart (already handled by `DateTime.now()`)

@@ -1,0 +1,5 @@
+- [x] Copy binary favicon files to web root
+- [x] Copy and update SVG favicon
+- [x] Update and move site.webmanifest
+- [x] Update index.html with new favicon tags
+- [x] Verify changes

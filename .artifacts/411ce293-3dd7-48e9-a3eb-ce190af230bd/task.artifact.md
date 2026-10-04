@@ -1,0 +1,19 @@
+- `[x]` Implementasi Responsivitas (Mobile Version)
+    - `[x]` Buat `lib/core/responsive.dart` helper
+    - `[x]` Update `NavigationProvider` untuk menu mobile
+    - `[x]` Refaktor `DashboardScreen` (Bottom Navigation Bar & Stack Layout)
+    - `[x]` Adaptasi `SummaryCard` untuk layar kecil
+    - `[x]` Adaptasi `ChartsSection` (Stack/Column layout)
+    - `[x]` Adaptasi `DebtScreen` & `DepositScreen` (List layout)
+    - `[x]` Penyesuaian `LoginScreen` untuk Mobile
+    - `[x]` Adaptasi `WalletScreen` & `SavingScreen` untuk Mobile
+- `[x]` Perbaikan Bug & Optimalisasi Mobile
+    - `[x]` Aktifkan tombol Tambah Transaksi di Dashboard Mobile
+    - `[x]` Optimasi Dialog (Tambah Hutang, Piutang, Transaksi) agar pas di layar HP
+    - `[x]` Perbaikan overflow di halaman Riwayat Transaksi
+    - `[x]` Hapus kata kunci `const` pada widget dinamis
+- `[x]` Implementasi Mobile Drawer (Menu Lengkap)
+    - `[x]` Buat widget `MobileDrawer`
+    - `[x]` Tambahkan tombol Hamburger Menu di Dashboard Mobile & Semua Halaman
+    - `[x]` Integrasi Logout di Drawer
+- `[x]` Verifikasi Tampilan Mobile & Desktop

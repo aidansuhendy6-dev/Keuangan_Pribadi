@@ -1,0 +1,7 @@
+- [ ] Research and analyze current implementation of text input in Tagihan Koko screen [x]
+- [ ] Create implementation plan [x]
+- [x] Implement `FocusNode` management in `TagihanKokoScreen`
+- [x] Update `_titleInputCell` to sync on Enter/Focus loss
+- [x] Update `_amountInputCell` to sync on Enter/Focus loss
+- [/] Verify changes manually
+- [x] Create walkthrough artifact

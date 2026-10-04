@@ -1,0 +1,7 @@
+- `[x]` Implementasi Apple iOS Style Menu Selector
+    - `[x]` Buat widget `AppleMenuSelector` di `lib/core/widgets/apple_menu_selector.dart`
+    - `[x]` Migrasi `AddTransactionDialog`
+    - `[x]` Migrasi `AddDebtDialog`
+    - `[x]` Migrasi `AddDepositTransactionDialog`
+    - `[x]` Migrasi `SavingTransferDialog`
+    - `[x]` Verifikasi fungsionalitas & visual
